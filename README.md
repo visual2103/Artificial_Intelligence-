@@ -1,4 +1,4 @@
-# **Artificial_Intelligence-**
+# **Artificial_Intelligence**
 ## **Search Algorithms in AI**
 
 This repository focuses on implementing and exploring fundamental search algorithms used in Artificial Intelligence (AI). These algorithms are designed to solve a variety of search problems efficiently and are foundational to many AI systems. Inspired by the "Pacman AI" educational projects from UC Berkeley, this project offers a hands-on approach to learning and experimenting with AI search techniques.
